@@ -1,0 +1,10 @@
+  .buttons.active {
+      background-color: #007bff;
+      color: white;
+    }
+    .contents {
+      display: none;
+    }
+    .contents.active {
+      display: block;
+    }
