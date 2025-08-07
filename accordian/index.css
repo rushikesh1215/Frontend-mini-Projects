@@ -1,0 +1,19 @@
+.section-acc .content {
+  display: none;
+}
+.section-acc.active .content {
+  display: block;
+}
+.header {
+  font-weight: bold;
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin: 5px 0;
+  cursor: pointer;
+  text-align: center;
+}
+.content {
+  text-align: center;
+  padding: 10px;
+  background-color: #e0e0e0;
+}
